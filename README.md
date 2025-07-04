@@ -1,4 +1,4 @@
-# EKS Workshop Terraform
+# EKS Terraform
 
 AWS EKS 클러스터와 VPC를 자동으로 프로비저닝하는 Terraform 코드입니다.
 

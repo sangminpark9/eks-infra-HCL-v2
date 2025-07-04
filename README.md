@@ -115,3 +115,12 @@ aws eks update-kubeconfig --region <region> --name <cluster-name>
 ### 확장성
 - **Karpenter 준비**: 자동 스케일링을 위한 태그 사전 구성
 - **하이브리드 지원**: 온프레미스 노드 연결 가능
+
+---
+[__cluster.yaml 파일 추가] 2025.07.04. 10:58
+
+```
+eksctl create cluster -f __cluster.yaml
+```
+
+위 코드를 통해서 eks cluster 생성도 가능
